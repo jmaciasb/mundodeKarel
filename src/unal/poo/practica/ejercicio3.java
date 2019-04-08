@@ -29,6 +29,6 @@ public class ejercicio3 {
             //Definicion de la ubicacion del robot, Ciudad, posicion, Direccion, Numero things en el bolso.
             estudiante = new Robot(objetos,1, 2, Direction.SOUTH,10);
           
-        
+            turn270();
         }
 }
